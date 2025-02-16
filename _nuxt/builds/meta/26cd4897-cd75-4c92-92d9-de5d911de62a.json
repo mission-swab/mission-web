@@ -1,0 +1,1 @@
+{"id":"26cd4897-cd75-4c92-92d9-de5d911de62a","timestamp":1739676768641,"matcher":{"static":{"/api/content/banner/database.sql":{"prerender":true},"/api/content/homeProducts/database.sql":{"prerender":true},"/api/content/products/database.sql":{"prerender":true},"/api/content/blog/database.sql":{"prerender":true}},"wildcard":{},"dynamic":{}},"prerendered":[]}
